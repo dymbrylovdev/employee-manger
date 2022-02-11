@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+/ClientApp/.angular/
+/ClientApp/.idea/
+/ClientApp/.vscode/
+/ClientApp/node_modules/
